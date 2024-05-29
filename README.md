@@ -1,5 +1,5 @@
 ![image](https://github.com/TuppyPower/-Primeiro-Jogo-2d-com-Godot/assets/130563312/7aae8f82-23f9-4467-bb16-eef6f1daaea1)
-Jungle Jump- um jogo de plataforma na tradição de clássicos como Super Mario Bros. 
+Pulo na Selva um jogo de plataforma na tradição de clássicos como Super Mario Bros. 
 Usando o nó CharacterBody2D
 Usando o nó Camera2D
 Combinando animações e entrada do usuário para produzir um comportamento de personagem complexo
